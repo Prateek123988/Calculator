@@ -1,0 +1,30 @@
+.container{
+  width: 300px;
+  margin-bottom: 30px;
+}
+h1{
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.div1{
+  width: 250px;
+  height: 40px;
+  margin: 10px auto 30px auto;
+  border: 2px solid black;
+  text-align: center;
+  padding: 5px 0 5px 0;
+}
+.column1{
+  padding-top: 120px;
+  background-color: #f5f4f4;
+}
+img{
+  width: 750px;
+  height: 700px;
+}
+.column2{
+  padding: 0;
+}
